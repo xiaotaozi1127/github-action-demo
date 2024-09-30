@@ -4,7 +4,7 @@ on: workflow_dispatch
 
 env:
   AWS_REGION: ap-southeast-2
-  IAM_ROLE: arn:aws:iam::981894443362:role/taohui-github-action-role
+  IAM_ROLE: arn:aws:iam::981894443362:role/tw-iac-demo-taohui-github-actions-role
 
 jobs:
 
